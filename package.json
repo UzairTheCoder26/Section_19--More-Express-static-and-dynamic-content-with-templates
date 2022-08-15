@@ -6,10 +6,7 @@
     "scripts": {
         "start": "nodemon app.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/uzair2607/Restaurant.git"
-    },
+    
     "keywords": [],
     "author": "Maximilian Schwarzmüller (Academind GmbH)",
     "license": "MIT",
